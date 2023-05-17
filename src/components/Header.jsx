@@ -6,11 +6,12 @@ function Header() {
       <div class="col-md-5 p-lg-5 mx-auto my-5">
         <h1 class="display-4 font-weight-normal">Punny headline</h1>
         <p class="lead font-weight-normal">
-          And an even wittier subheading to boot. Jumpstart your marketing
-          efforts with this example based on Apple's marketing pages.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam diam
+          ligula, semper id ullamcorper sollicitudin, congue vitae leo.
+          Vestibulum sit amet fermentum augue. 
         </p>
         <a class="btn btn-outline-secondary" href="#">
-          Coming soon
+          Book now
         </a>
       </div>
       <div class="product-device box-shadow d-none d-md-block"></div>

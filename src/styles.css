@@ -1,8 +1,19 @@
 .header {
-	margin: 0rem;
+	margin: 0;
 	background-image: url(../public/images/background.jpg);
 	background-size: cover;
-   background-repeat: no-repeat;
-   background-position: center center;
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+
+h2 {
+	text-align: center;
+}
+
+.card-header {
+	background-size: cover;
+	height: 200px;
+	background-repeat: no-repeat;
+	background-position: center center;
 }
   

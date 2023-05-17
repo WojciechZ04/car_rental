@@ -9,7 +9,7 @@ function Footer() {
             href="/"
             class="d-flex align-items-center mb-3 link-body-emphasis text-decoration-none"
           ></a>
-          <p class="text-body-secondary">© Car Rental</p>
+          <p class="text-body-secondary">© Fast & Luxurious</p>
         </div>
 
         <div class="col mb-3"></div>
