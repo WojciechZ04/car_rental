@@ -3,7 +3,7 @@ import LanguageIcon from "@mui/icons-material/Language";
 
 function Navbar() {
   return (
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <nav class="navbar navbar-expand-lg navbar-dark background">
       <a class="navbar-brand" href="/">
       Fast & Luxurious
       </a>
@@ -20,7 +20,7 @@ function Navbar() {
       </button>
 
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul class="navbar-nav mr-auto">
+        <ul class="navbar-nav ml-auto">
           <li class="nav-item active">
             <a class="nav-link" href="/">
               Home <span class="sr-only">(current)</span>
